@@ -10,6 +10,12 @@ The objective is to analyze Instacart's data, in order to derive insights and su
 
 For this analysis, we used a number of open-source data sets from Instacart, as well as a customer data set created and included for the purpose of this project.
 
+### Stakeholders 
+
+- Vice President of Marketing
+- Senior Vice President of Sales
+- Instacart Customer
+
 ### Tools
 
 - Python
